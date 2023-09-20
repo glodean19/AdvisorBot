@@ -1,1 +1,3 @@
 # AdvisorBot
+
+Cryptocurrency AdvisorBot
